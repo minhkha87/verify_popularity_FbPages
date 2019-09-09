@@ -17,6 +17,8 @@ Our app does not collect any personal date from users.
 The app only processes on request of user who input the name of a facebook page (or fb page id)
 The app will show the user with detail information about the advertisers (fb page) and does not save that information any where.
 
+(Project is in development mode)
+
 
 
 
